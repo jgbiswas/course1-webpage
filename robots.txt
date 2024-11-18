@@ -1,1 +1,1 @@
-Sitemap: https://anandology.github.io/quarto-website-template/sitemap.xml
+Sitemap: https://jgbiswas.github.io/course1-webpage/sitemap.xml
