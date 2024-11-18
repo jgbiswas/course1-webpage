@@ -2,6 +2,7 @@
   {
     "listing": "/index.html",
     "items": [
+      "/posts/assignment/index.html",
       "/posts/getting-started-with-quarto/index.html",
       "/posts/hello-world/index.html"
     ]
