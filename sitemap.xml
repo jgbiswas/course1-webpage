@@ -1,19 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://jgbiswas.github.io/course1-webpage/posts/getting-started-with-quarto/index.html</loc>
-    <lastmod>2024-11-18T09:52:58.221Z</lastmod>
-  </url>
-  <url>
-    <loc>https://jgbiswas.github.io/course1-webpage/index.html</loc>
-    <lastmod>2024-11-18T09:52:58.217Z</lastmod>
-  </url>
-  <url>
-    <loc>https://jgbiswas.github.io/course1-webpage/about.html</loc>
-    <lastmod>2024-11-18T09:52:58.217Z</lastmod>
+    <loc>https://jgbiswas.github.io/course1-webpage/hello.html</loc>
+    <lastmod>2024-11-18T10:13:56.957Z</lastmod>
   </url>
   <url>
     <loc>https://jgbiswas.github.io/course1-webpage/posts/hello-world/index.html</loc>
-    <lastmod>2024-11-18T09:52:58.221Z</lastmod>
+    <lastmod>2024-11-18T10:13:56.957Z</lastmod>
+  </url>
+  <url>
+    <loc>https://jgbiswas.github.io/course1-webpage/about.html</loc>
+    <lastmod>2024-11-18T10:13:56.957Z</lastmod>
+  </url>
+  <url>
+    <loc>https://jgbiswas.github.io/course1-webpage/index.html</loc>
+    <lastmod>2024-11-18T10:13:56.957Z</lastmod>
+  </url>
+  <url>
+    <loc>https://jgbiswas.github.io/course1-webpage/posts/getting-started-with-quarto/index.html</loc>
+    <lastmod>2024-11-18T10:13:56.957Z</lastmod>
   </url>
 </urlset>
